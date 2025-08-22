@@ -29,7 +29,6 @@
     "@mastra/libsql": "^0.13.2",
     "@mastra/loggers": "^0.10.6",
     "@mastra/mcp": "^0.10.11",
-    "@mastra/memory": "^0.12.2",
     "zod": "^3"
   }
 }
